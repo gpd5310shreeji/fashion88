@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Gotham-HTF';
+    src: url('GothamHTF-Bold.eot');
+    src: url('GothamHTF-Bold.eot?#iefix') format('embedded-opentype'),
+        url('GothamHTF-Bold.woff2') format('woff2'),
+        url('GothamHTF-Bold.woff') format('woff'),
+        url('GothamHTF-Bold.ttf') format('truetype'),
+        url('GothamHTF-Bold.svg#GothamHTF-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham-HTF';
+    src: url('GothamHTF-Book.eot');
+    src: url('GothamHTF-Book.eot?#iefix') format('embedded-opentype'),
+        url('GothamHTF-Book.woff2') format('woff2'),
+        url('GothamHTF-Book.woff') format('woff'),
+        url('GothamHTF-Book.ttf') format('truetype'),
+        url('GothamHTF-Book.svg#GothamHTF-Book') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
